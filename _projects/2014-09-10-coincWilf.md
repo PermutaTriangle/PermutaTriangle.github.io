@@ -1,0 +1,26 @@
+---
+title:
+- Coincidence and Wilf-classification
+
+authors: 
+- claesson
+- hilmarsson
+- jonsdottir
+- sigurdardottir
+- tenner
+- ulfarsson
+- vidarsdottir
+
+
+---
+![Shading lemma](/assets/img/shlemma.png){:align="right" height="200px"}
+Two patterns are coincident if they are avoided by the same permutations. They
+are Wilf-equivalent if the are avoided by the same number of permutations. We
+study general rules which can tell us when patterns (or sets of patterns) are
+coincident or Wilf-equivalent.
+
+## Papers
+- [Wilf-classification of mesh patterns of short length]({{ site.baseurl }}{% link _papers/2014-09-10-shlemma.md %})
+- [Coincidence among families of mesh patterns]({{ site.baseurl }}{% link _papers/2014-12-04-sshlemma.md %})
+
+## Presentations

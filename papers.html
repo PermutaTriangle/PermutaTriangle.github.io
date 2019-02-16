@@ -1,0 +1,16 @@
+---
+layout: default
+title: Papers
+---
+<h1>Latest papers</h1>
+
+<ul>
+  {% assign sorted = site.papers | sort: 'date' | reverse %}
+  {% for paper in sorted %}
+    <li>
+      <h2><a href="{{ paper.url }}">{{ paper.title }}</a></h2>
+      <p>{{ paper.journal }}</p>
+      <p>{{ paper.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>

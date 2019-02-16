@@ -32,6 +32,8 @@ plugins:
 collections:
   projects:
     output: true
+  papers:
+    output: true
   authors:
     output: true
 
@@ -41,6 +43,11 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+  - scope:
+      path: ""
+      type: "papers"
+    values:
+      layout: "paper"
   - scope:
       path: ""
       type: "authors"
