@@ -10,26 +10,22 @@ layout: default
   {% if authorCount == 0 %}
       No author
   {% elsif authorCount == 1 %}
-      {{ authorCount }}
       {% assign thisAuthor = page.authors | first %}
-      {{ thisAuthor }}
-      {{ authorCount }}
       
       {% assign author = site.authors | where: 'short_name', thisAuthor | first %}
       <a href="{{ author.url }}">{{ author.first_name }}</a>
-      {{ page.authors | first }}
       
   {% else %}
       {% for thisAuthor in page.authors %}
           {% if forloop.first %}
               {% assign author = site.authors | where: 'short_name', thisAuthor | first %}
-              <a href="{{ author.url }}">{{ author.first_name }}</a>
+              <a href="{{ author.url }}">{{ author.first_name }},</a>
           {% elsif forloop.last %}
               and
               {% assign author = site.authors | where: 'short_name', thisAuthor | first %}
               <a href="{{ author.url }}">{{ author.first_name }}</a>
           {% else %}
-              , {% assign author = site.authors | where: 'short_name', thisAuthor | first %}
+              {% assign author = site.authors | where: 'short_name', thisAuthor | first %}
                 <a href="{{ author.url }}">{{ author.first_name }}</a>
           {% endif %}
       {% endfor %}

@@ -2,12 +2,14 @@
 layout: default
 title: Research
 ---
-<h1>Latest Posts</h1>
+<h1>Latest projects</h1>
 
 <ul>
-  {% for project in site.projects %}
+  {% assign sorted = site.projects | sort: 'date' | reverse %}
+  {% for project in sorted %}
     <li>
       <h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
+      <p>{{ project.journal }}</p>
       <p>{{ project.excerpt }}</p>
     </li>
   {% endfor %}

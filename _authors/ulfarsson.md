@@ -1,4 +1,5 @@
 ---
+status: member
 short_name: ulfarsson
 first_name: Henning
 name: Henning Ulfarsson

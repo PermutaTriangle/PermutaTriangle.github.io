@@ -1,4 +1,5 @@
 ---
+status: member
 short_name: claesson
 first_name: Anders
 name: Anders Claesson
