@@ -13,16 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Henning Ulfarsson
+title: Permuta Triangle
 email: henningu@ru.is
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A research group focused on the combinatorics of permutation patterns.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ulfarsson
-github_username:  ulfarsson
+github_username:  PermutaTriangle
 
 # Build settings
 markdown: kramdown
@@ -33,6 +31,8 @@ collections:
   projects:
     output: true
   papers:
+    output: true
+  programs:
     output: true
   authors:
     output: true
@@ -48,6 +48,11 @@ defaults:
       type: "papers"
     values:
       layout: "paper"
+  - scope:
+      path: ""
+      type: "programs"
+    values:
+      layout: "program"
   - scope:
       path: ""
       type: "authors"

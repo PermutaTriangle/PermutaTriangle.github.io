@@ -18,7 +18,19 @@ layout: default
 <ul>
   {% assign filtered_papers = site.papers | where_exp:'item', 'item.authors contains page.short_name' %}
   {% for paper in filtered_papers %}
+  {% if paper.type != 'outside' %}
     <li><a href="{{ paper.url }}">{{ paper.title }}</a></li>
+  {% endif %}
+  {% endfor %}
+</ul>
+
+<h2>Programs</h2>
+<ul>
+  {% assign filtered_programs = site.programs | where_exp:'item', 'item.authors contains page.short_name' %}
+  {% for program in filtered_programs %}
+  {% if program.type != 'outside' %}
+    <li><a href="{{ program.url }}">{{ program.title }}</a></li>
+  {% endif %}
   {% endfor %}
 </ul>
 
@@ -27,5 +39,15 @@ layout: default
   {% assign filtered_posts = site.posts | where: 'author', page.short_name %}
   {% for post in filtered_posts %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+<h2>Papers outside of the group</h2>
+<ul>
+  {% assign filtered_papers = site.papers | where_exp:'item', 'item.authors contains page.short_name' %}
+  {% for paper in filtered_papers %}
+  {% if paper.type == 'outside' %}
+    <li><a href="{{ paper.url }}">{{ paper.title }}</a></li>
+  {% endif %}
   {% endfor %}
 </ul>
