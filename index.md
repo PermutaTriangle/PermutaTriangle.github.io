@@ -5,8 +5,6 @@
 layout: default
 ---
 
-## A Research Group on Permutation Patterns 
-
 ![Mutate](/assets/img/mutation.png){:align="right" height="200px"}
 The study of permutation patterns is a very active area of research and has
 connections to many other fields of mathematics as well as to computer science
