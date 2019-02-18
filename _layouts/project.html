@@ -11,20 +11,20 @@ layout: default
       {% assign thisAuthor = page.authors | first %}
       
       {% assign author = site.authors | where: 'short_name', thisAuthor | first %}
-      <a href="{{ author.url }}">{{ author.first_name }}</a>
+      <a href="{{site.baseurl}}{{ author.url }}">{{ author.first_name }}</a>
       
   {% else %}
       {% for thisAuthor in page.authors %}
           {% if forloop.first %}
               {% assign author = site.authors | where: 'short_name', thisAuthor | first %}
-              <a href="{{ author.url }}">{{ author.first_name }},</a>
+              <a href="{{site.baseurl}}{{ author.url }}">{{ author.first_name }},</a>
           {% elsif forloop.last %}
               and
               {% assign author = site.authors | where: 'short_name', thisAuthor | first %}
-              <a href="{{ author.url }}">{{ author.first_name }}</a>
+              <a href="{{site.baseurl}}{{ author.url }}">{{ author.first_name }}</a>
           {% else %}
               {% assign author = site.authors | where: 'short_name', thisAuthor | first %}
-                <a href="{{ author.url }}">{{ author.first_name }},</a>
+                <a href="{{site.baseurl}}{{ author.url }}">{{ author.first_name }},</a>
           {% endif %}
       {% endfor %}
   {% endif %}
@@ -36,7 +36,7 @@ layout: default
   <ul>
       {% for paper in site.papers %}
       {% if paper.projects contains page.short_name %}
-        <li><a href="{{ paper.url }}">{{ paper.title }}</a></li>
+        <li><a href="{{site.baseurl}}{{ paper.url }}">{{ paper.title }}</a></li>
       {% endif %}
       {% endfor %}
   </ul>

@@ -11,28 +11,28 @@ layout: default
       {% assign thisAuthor = page.authors | first %}
       
       {% assign author = site.authors | where: 'short_name', thisAuthor | first %}
-      <a href="{{ author.url }}">{{ author.first_name }}</a>
+      <a href="{{site.baseurl}}{{ author.url }}">{{ author.first_name }}</a>
 
   {% elsif authorCount == 2 %}
       {% assign thisAuthor = page.authors | first %}
       {% assign author = site.authors | where: 'short_name', thisAuthor | first %}
-      <a href="{{ author.url }}">{{ author.first_name }}</a> and
+      <a href="{{site.baseurl}}{{ author.url }}">{{ author.first_name }}</a> and
       {% assign thisAuthor = page.authors | last %}
       {% assign author = site.authors | where: 'short_name', thisAuthor | last %}
-      <a href="{{ author.url }}">{{ author.first_name }}</a>
+      <a href="{{site.baseurl}}{{ author.url }}">{{ author.first_name }}</a>
       
   {% else %}
       {% for thisAuthor in page.authors %}
           {% if forloop.first %}
               {% assign author = site.authors | where: 'short_name', thisAuthor | first %}
-              <a href="{{ author.url }}">{{ author.first_name }}</a>,
+              <a href="{{site.baseurl}}{{ author.url }}">{{ author.first_name }}</a>,
           {% elsif forloop.last %}
               and
               {% assign author = site.authors | where: 'short_name', thisAuthor | first %}
-              <a href="{{ author.url }}">{{ author.first_name }}</a>
+              <a href="{{site.baseurl}}{{ author.url }}">{{ author.first_name }}</a>
           {% else %}
               {% assign author = site.authors | where: 'short_name', thisAuthor | first %}
-                <a href="{{ author.url }}">{{ author.first_name }}</a>
+                <a href="{{site.baseurl}}{{ author.url }}">{{ author.first_name }}</a>
           {% endif %}
       {% endfor %}
   {% endif %}
