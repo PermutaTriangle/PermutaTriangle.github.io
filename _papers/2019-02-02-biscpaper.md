@@ -12,7 +12,7 @@ projects:
 
 type: inside
 ---
-![Code](/assets/img/bisc.png){:align="right" height="200px"}
+![Code]({{site.baseurl}}/assets/img/bisc.png){:align="right" height="200px"}
 BiSC is an algorithm inspired by a question asked by Sara Billey in the talk
 [Consequences of the Lakshmibai-Sandhya Theorem](http://www.math.washington.edu/~billey/talks/awm.pdf)
 at the AWM Anniversary Conference in 2011. She asked whether one could write an
@@ -31,7 +31,7 @@ clarifications or to suggest new features.
 - [arXiv](http://arxiv.org/abs/1211.7110)
 
 ## Download the code
-- [bisc.zip](/assets/progr/bisc/bisc.zip) (last updated Nov. 29 2012)
+- [bisc.zip]({{site.baseurl}}/assets/progr/bisc/bisc.zip) (last updated Nov. 29 2012)
 
 ### The first example
 The instructions below assume you have Sage on your machine and have downloaded
@@ -134,7 +134,7 @@ If you want to see what the patterns look like run this
 show_multiple(dict_to_MeshPatts(SG),4,0.5)
 ```
 
-![Too many](/assets/img/FourInsteadOfTwo.png){:align="center"}
+![Too many]({{site.baseurl}}/assets/img/FourInsteadOfTwo.png){:align="center"}
 
 We will deal with this a little further down. Right now we can console
 ourselves with the fact that these four patterns correctly describe the
@@ -212,7 +212,7 @@ b = map( lambda x : (x[0],x[1].list()), [dict_numbs_to_patts[b] for b in bases[b
 show_multiple(map( lambda x : MeshPattern(x[0],Set(x[1])), b),4,0.5)
 ```
 
-![Too many](/assets/img/JustTwo.png){:align="center"}
+![Too many]({{site.baseurl}}/assets/img/JustTwo.png){:align="center"}
 
 To be on the safe side, the last cell can be run to check whether these two
 mesh patterns correctly describe the permutations from the dictionary `B`.

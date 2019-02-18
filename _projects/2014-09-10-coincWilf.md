@@ -13,7 +13,7 @@ authors:
 - ulfarsson
 - vidarsdottir
 ---
-![Shading lemma](/assets/img/shlemma.png){:align="right" height="200px"}
+![Shading lemma]({{site.baseurl}}/assets/img/shlemma.png){:align="right" height="200px"}
 Two patterns are coincident if they are avoided by the same permutations. They
 are Wilf-equivalent if the are avoided by the same number of permutations. We
 study general rules which can tell us when patterns (or sets of patterns) are

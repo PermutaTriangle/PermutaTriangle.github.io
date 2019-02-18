@@ -13,7 +13,7 @@ authors:
 
 
 ---
-![Word graph](/assets/img/wordgraphs.png){:align="right" height="200px"}
+![Word graph]({{site.baseurl}}/assets/img/wordgraphs.png){:align="right" height="200px"}
 A graph G=(V,E) is representable if there exists a word W over the alphabet V
 such that letters x and y alternate in W if and only if (x,y) is in E for each
 x not equal to y. The motivation to study representable graphs came from
