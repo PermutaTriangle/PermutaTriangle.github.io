@@ -18,7 +18,7 @@ vertices if the occurrences differ by exactly one element. We then study
 properties of these graphs. The main theorem in this paper is that every
 hereditary property of graphs gives rise to a permutation class.
 
-This paper started as the BSc thesis of Bjarni at the University of Iceland. 
+This paper started as the BSc thesis of Bjarni at the University of Iceland.
 
 ## Download the paper
 <!-- - [{{ page.journal }}](https://cs.uwaterloo.ca/journals/JIS/VOL20/Bean/bean2.html) -->
