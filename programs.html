@@ -9,7 +9,7 @@ title: Programs
   {% for program in sorted %}
   {% if program.type != 'outside' %}
     <li>
-      <h2><a href="{{ program.url }}">{{ program.title }}</a></h2>
+      <h2><a href="{{site.baseurl}}{{ program.url }}">{{ program.title }}</a></h2>
       <p>{{ program.repo }}</p>
       <p>{{ program.excerpt }}</p>
     </li>

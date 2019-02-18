@@ -9,7 +9,7 @@ title: Papers
   {% for paper in sorted %}
   {% if paper.type != 'outside' %}
     <li>
-      <h2><a href="{{ paper.url }}">{{ paper.title }}</a></h2>
+      <h2><a href="{{site.baseurl}}{{ paper.url }}">{{ paper.title }}</a></h2>
       <p>{{ paper.journal }}</p>
       <p>{{ paper.excerpt }}</p>
     </li>
