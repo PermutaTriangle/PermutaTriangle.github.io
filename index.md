@@ -21,7 +21,7 @@ mathematics and computer science.
   {% for author in site.authors %}
   {% if author.status == 'member' %}
     <li>
-      <p><a href="{{ author.url }}">{{ author.name }}</a>,  {{ author.position }}</p>
+      <p><a href="{{ site.baseurl }}{{ author.url }}">{{ author.name }}</a>,  {{ author.position }}</p>
     </li>
     {% endif %}
   {% endfor %}
@@ -32,7 +32,7 @@ mathematics and computer science.
   {% for author in site.authors %}
   {% if author.status == 'student' %}
     <li>
-      <p><a href="{{ author.url }}">{{ author.name }}</a>,  {{ author.position }}</p>
+      <p><a href="{{ site.baseurl }}{{ author.url }}">{{ author.name }}</a>,  {{ author.position }}</p>
     </li>
     {% endif %}
   {% endfor %}
