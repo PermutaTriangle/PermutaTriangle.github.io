@@ -26,5 +26,5 @@ This paper started as the BSc thesis of Bjarni at the University of Iceland.
 - [Bjarni's BSc thesis](http://hdl.handle.net/1946/22017)
 
 ## Presentations
-- [Presentation at the biannual conference of the Icelandic Mathematics Society 2015]({{site.baseurl}}/assets/talks/occgraphs/2015-IMS.pdf)
-- [Presentation at Permutation Patterns 2016]({{site.baseurl}}/assets/talks/occgraphs/2016-PP.pdf)
+- [Conference of the Icelandic Mathematics Society 2015]({{site.baseurl}}/assets/talks/occgraphs/2015-IMS.pdf)
+- [Permutation Patterns 2016]({{site.baseurl}}/assets/talks/occgraphs/2016-PP.pdf)
