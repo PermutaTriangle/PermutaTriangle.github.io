@@ -13,4 +13,4 @@ computational mathematics, and statistical mechanics.
 
 - [Personal website](http://jaypantone.com)
 - [arXiv papers](https://arxiv.org/search/?searchtype=author&query=Pantone%2C+J)
-- [Google Scholar](https://scholar.google.com/citations?user=wA5QyMEAAAAJ&hl=en&oi=ao)
+- [Google Scholar](https://scholar.google.com/citations?user=wA5QyMEAAAAJ&hl=en)
