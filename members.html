@@ -16,10 +16,10 @@ title: People
   {% endfor %}
 </ul>
 
-<h2>Collaborators</h2>
+<h2>Current students</h2>
 <ul>
   {% for author in site.authors %}
-  {% if author.status == 'collaborator' %}
+  {% if author.status == 'student' %}
     <li>
       <h2><a href="{{site.baseurl}}{{ author.url }}">{{ author.name }}</a></h2>
       <h3>{{ author.position }}</h3>
@@ -29,10 +29,10 @@ title: People
   {% endfor %}
 </ul>
 
-<h2>Students</h2>
+<h2>Collaborators</h2>
 <ul>
   {% for author in site.authors %}
-  {% if author.status == 'student' %}
+  {% if author.status == 'collaborator' %}
     <li>
       <h2><a href="{{site.baseurl}}{{ author.url }}">{{ author.name }}</a></h2>
       <h3>{{ author.position }}</h3>
