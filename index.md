@@ -27,7 +27,7 @@ mathematics and computer science.
   {% endfor %}
 </ul>
 
-### Students
+### Current students
 <ul>
   {% for author in site.authors %}
   {% if author.status == 'student' %}
