@@ -12,5 +12,6 @@ including analytic combinatorics, computer algebra, experimental and
 computational mathematics, and statistical mechanics.
 
 - [Personal website](http://jaypantone.com)
-- [arXiv papers](https://arxiv.org/search/?searchtype=author&query=Pantone%2C+J)
+- [arXiv papers](https://arxiv.org/a/pantone_j_1.html)
 - [Google Scholar](https://scholar.google.com/citations?user=wA5QyMEAAAAJ&hl=en)
+- [ORCID id](https://orcid.org/0000-0001-7510-8540)
