@@ -23,11 +23,12 @@ layout: default
       
   {% else %}
       {% for thisAuthor in page.authors %}
-          {% if forloop.first %}
-              {% assign author = site.authors | where: 'short_name', thisAuthor | first %}
-              <a href="{{site.baseurl}}{{ author.url }}">{{ author.first_name }}</a>,
-          {% elsif forloop.last %}
+          {% assign gaur = forloop.length | minus: 1 %}
+          {% if forloop.last %}
               and
+              {% assign author = site.authors | where: 'short_name', thisAuthor | first %}
+              <a href="{{site.baseurl}}{{ author.url }}">{{ author.first_name }}</a>
+          {% elsif forloop.index == gaur %}
               {% assign author = site.authors | where: 'short_name', thisAuthor | first %}
               <a href="{{site.baseurl}}{{ author.url }}">{{ author.first_name }}</a>
           {% else %}
