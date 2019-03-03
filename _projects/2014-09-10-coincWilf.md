@@ -6,10 +6,12 @@ short_name: coincWilf
 
 authors: 
 - claesson
+- gudmundsson
 - hilmarsson
 - jonsdottir
 - sigurdardottir
 - tenner
+- tmagnusson
 - ulfarsson
 - vidarsdottir
 ---
