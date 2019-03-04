@@ -6,3 +6,5 @@ name: Ingibjorg Jonsdottir
 position: 
 ---
 Ingibjorg is ...
+
+- [MathSciNet Profile](https://mathscinet.ams.org/mathscinet/MRAuthorID/1131689)

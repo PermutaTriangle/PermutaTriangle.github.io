@@ -6,3 +6,5 @@ name: Steinunn Sigurdardottir
 position: 
 ---
 Steinunn is ...
+
+- [MathSciNet Profile](https://mathscinet.ams.org/mathscinet/MRAuthorID/1131279)

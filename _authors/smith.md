@@ -6,3 +6,5 @@ name: Jason Smith
 position: 
 ---
 Jason is ...
+
+- [MathSciNet Profile](https://mathscinet.ams.org/mathscinet/MRAuthorID/1064610)

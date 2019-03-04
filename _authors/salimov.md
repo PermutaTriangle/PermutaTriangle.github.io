@@ -6,3 +6,5 @@ name: Pavel Salimov
 position: 
 ---
 Pavel is ...
+
+- [MathSciNet Profile](https://mathscinet.ams.org/mathscinet/MRAuthorID/877274)

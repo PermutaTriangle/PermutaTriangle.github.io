@@ -10,3 +10,4 @@ He is currently pursuing his PhD with
 [Michael Albert]({{ site.baseurl }}{% link _authors/albert.md %}).
 
 - [MSc thesis: Equivalence classes of mesh patterns with a dominating pattern](http://hdl.handle.net/1946/25589)
+- [MathSciNet Profile](https://mathscinet.ams.org/mathscinet/MRAuthorID/1256210)

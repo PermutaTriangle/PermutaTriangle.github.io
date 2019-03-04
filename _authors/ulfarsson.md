@@ -10,4 +10,5 @@ at [Reykjavik University](https://en.ru.is) in Iceland.
 
 - [arXiv papers](https://arxiv.org/a/ulfarsson_h_1.html)
 - [Google Scholar](https://scholar.google.is/citations?user=Sl6fQHcAAAAJ&hl=en)
+- [MathSciNet Profile](https://mathscinet.ams.org/mathscinet/MRAuthorID/848375)
 - [ORCID id](https://orcid.org/0000-0001-6428-7117)
