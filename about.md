@@ -4,7 +4,12 @@ title: About
 permalink: /about/
 ---
 
-We need to add some useful further information here
+Useful links
+- [ComboPal](http://combopal.ru.is)
+- [PermPal - the predecessor of ComboPal](https://permpal.ru.is)
+- [Database of Permutation Pattern Avoidance](http://math.depaul.edu/bridget/patterns.html) (Maintained by Bridget Tenner)
+- [FindStat](http://www.findstat.org/CollectionsDatabase)
+- [Wikipedia: Enumerations of specific permutation classes](https://en.m.wikipedia.org/wiki/Enumerations_of_specific_permutation_classes)
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
