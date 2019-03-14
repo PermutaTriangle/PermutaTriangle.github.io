@@ -3,7 +3,7 @@ title:
 - The poset of mesh patterns
 
 journal:
- - Submitted
+ - To appear in Discrete Mathematics
 
 authors: 
 - smith
@@ -22,7 +22,7 @@ permutations to mesh patterns.
 <!-- The paragraph above is ad adaptation of the abstract. 2019-2-21 -->
 
 ## Download the paper
-<!-- - [{{ page.journal }}](https://cs.uwaterloo.ca/journals/JIS/VOL20/Bean/bean2.html) -->
+- [{{ page.journal }}](https://ees.elsevier.com/disc/)
 - [arXiv](https://arxiv.org/abs/1802.08672)
 
 ## Presentations
