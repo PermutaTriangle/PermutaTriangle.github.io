@@ -17,7 +17,7 @@ title: Permuta Triangle
 email: henningu@ru.is
 description: >- # this means to ignore newlines until "baseurl:"
   A research group focused on the combinatorics of permutation patterns.
-baseurl: "/PermutaTriangle" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ulfarsson
 github_username:  PermutaTriangle
