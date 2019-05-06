@@ -32,6 +32,8 @@ collections:
     output: true
   papers:
     output: true
+  talks:
+    output: true
   programs:
     output: true
   authors:
@@ -48,6 +50,11 @@ defaults:
       type: "papers"
     values:
       layout: "paper"
+  - scope:
+      path: ""
+      type: "talks"
+    values:
+      layout: "talk"
   - scope:
       path: ""
       type: "programs"

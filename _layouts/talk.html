@@ -1,0 +1,50 @@
+---
+layout: default
+---
+<h1>{{ page.title }}</h1>
+<h3>{{ page.venue }}
+    {% if page.eventpage %}
+        (<a href="{{ page.eventpage }}">Event page</a>)
+    {% endif %}</h3>
+
+<p>
+  {{ page.date | date_to_string }}
+</p>
+<p>
+  Presented by
+  {% assign authorCount = page.authors | size %}
+  {% if authorCount == 0 %}
+      No author
+  {% elsif authorCount == 1 %}
+      {% assign thisAuthor = page.authors | first %}
+      
+      {% assign author = site.authors | where: 'short_name', thisAuthor | first %}
+      <a href="{{site.baseurl}}{{ author.url }}">{{ author.first_name }}</a>
+
+  {% elsif authorCount == 2 %}
+      {% assign thisAuthor = page.authors | first %}
+      {% assign author = site.authors | where: 'short_name', thisAuthor | first %}
+      <a href="{{site.baseurl}}{{ author.url }}">{{ author.first_name }}</a> and
+      {% assign thisAuthor = page.authors | last %}
+      {% assign author = site.authors | where: 'short_name', thisAuthor | last %}
+      <a href="{{site.baseurl}}{{ author.url }}">{{ author.first_name }}</a>
+      
+  {% else %}
+      {% for thisAuthor in page.authors %}
+          {% assign gaur = forloop.length | minus: 1 %}
+          {% if forloop.last %}
+              and
+              {% assign author = site.authors | where: 'short_name', thisAuthor | first %}
+              <a href="{{site.baseurl}}{{ author.url }}">{{ author.first_name }}</a>
+          {% elsif forloop.index == gaur %}
+              {% assign author = site.authors | where: 'short_name', thisAuthor | first %}
+              <a href="{{site.baseurl}}{{ author.url }}">{{ author.first_name }}</a>
+          {% else %}
+              {% assign author = site.authors | where: 'short_name', thisAuthor | first %}
+                <a href="{{site.baseurl}}{{ author.url }}">{{ author.first_name }}</a>,
+          {% endif %}
+      {% endfor %}
+  {% endif %}
+  </p>
+
+{{ content }}

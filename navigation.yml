@@ -6,6 +6,8 @@
   link: /blog.html
 - name: Projects
   link: /projects.html
+- name: Talks
+  link: /talks.html
 - name: Papers
   link: /papers.html
 - name: Programs
