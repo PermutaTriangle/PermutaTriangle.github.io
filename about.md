@@ -11,6 +11,9 @@ Useful links
 - [FindStat](http://www.findstat.org/CollectionsDatabase)
 - [Wikipedia: Enumerations of specific permutation classes](https://en.m.wikipedia.org/wiki/Enumerations_of_specific_permutation_classes)
 
+Affiliated research centers
+- [ICE-TCS](http://icetcs.ru.is) ([blog](https://ice-tcs.blogspot.com))
+
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
