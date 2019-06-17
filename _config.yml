@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Permuta Triangle
-email: henningu@ru.is
+email: permutatriangle@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A research group focused on the combinatorics of permutation patterns.
 baseurl: "" # the subpath of your site, e.g. /blog
