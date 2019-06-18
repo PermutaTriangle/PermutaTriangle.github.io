@@ -5,6 +5,8 @@ first_name: Christian
 name: Christian Bean
 position: Postdoctoral Researcher, Reykjavik University
 ---
+![Sage code]({{site.baseurl}}/assets/img/christian.jpg){:align="right" height="200px"}
+
 Christian is a postdoc in the [School of Computer Science](https://en.ru.is/scs/) at [Reykjavik University](https://en.ru.is) in Iceland.
 
 - [PhD thesis: Finding structure in permutation sets](http://hdl.handle.net/1946/31663)
