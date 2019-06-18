@@ -7,14 +7,14 @@ layout: default
 {{ content }}
 
 {% assign filtered_projects = site.projects | where_exp:'item', 'item.authors contains page.short_name' %}
-{% unless filtered_projects %}
+{% if filtered_projects %}
 <h2>Projects</h2>
 <ul>
   {% for project in filtered_projects %}
     <li><a href="{{site.baseurl}}{{ project.url }}">{{ project.title }}</a></li>
   {% endfor %}
 </ul>
-{% endunless %}
+{% endif %}
 
 <h2>Papers</h2>
 <ul>
