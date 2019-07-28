@@ -16,11 +16,11 @@ projects:
 We present a way to obtain  permutation classes by inflation of independent sets
 of  certain graphs.  We  cover classes  of  the form  Av(2314,  3124, P)  and
 Av(2413,  3142,  P).  These  results  allow us to
-enumerate a total of $48$ classes, with bases containing only length 4 patterns.
+enumerate a total of 48 classes, with bases containing only length 4 patterns.
 Using a modified approach, we also demonstrate  a result for classes of the form
 Av(2134, 2413, P) that allows us to enumerate eight more classes  described by
 bases containing only length 4 patterns. We finally use our results to prove an
-unbalanced  Wilf-equivalence  between  Av(2134, 2413)$  and
+unbalanced  Wilf-equivalence  between  Av(2134, 2413)  and
 Av(2314,  3124, 12435, 13524).
 
 ## Presentations
