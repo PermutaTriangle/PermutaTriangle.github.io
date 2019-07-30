@@ -13,6 +13,7 @@ authors:
 projects:
 
 ---
+![A core graph]({{site.baseurl}}/assets/img/indepsets.png){:align="right" height="200px"}
 We present a way to obtain  permutation classes by inflation of independent sets
 of  certain graphs.  We  cover classes  of  the form  Av(2314,  3124, P)  and
 Av(2413,  3142,  P).  These  results  allow us to
