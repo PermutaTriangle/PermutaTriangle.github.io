@@ -1,9 +1,7 @@
 ---
-title:
-- Enumeration of permutation classes by inflation of independent set of graphs
+title: Enumeration of permutation classes by inflation of independent set of graphs
 
-journal:
- - In preparation
+journal: In preparation
 
 authors:
 - bean
