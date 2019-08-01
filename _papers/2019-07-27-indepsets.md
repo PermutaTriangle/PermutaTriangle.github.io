@@ -25,5 +25,9 @@ unbalanced  Wilf-equivalence  between  Av(2134, 2413)  and
 Av(2314,  3124, 12435, 13524).
 
 ## Presentations
-- Permutation Patterns 2019, presented by Émile [abstract]({{site.baseurl}}/assets/talks/indepsets/2019-PP-abstract.pdf)
-- British Combinatorial Conference 2019, presented by Émile [abstract]({{site.baseurl}}/assets/talks/indepsets/2019-BCC-abstract.pdf)
+- Permutation Patterns 2019, presented by Émile
+[abstract]({{site.baseurl}}/assets/talks/indepsets/2019-PP-abstract.pdf)
+[slides]({{site.baseurl}}/assets/talks/indepsets/2019-PP-slides.pdf)
+- British Combinatorial Conference 2019, presented by Émile
+[abstract]({{site.baseurl}}/assets/talks/indepsets/2019-BCC-abstract.pdf)
+[slides]({{site.baseurl}}/assets/talks/indepsets/2019-BCC-slides.pdf)
