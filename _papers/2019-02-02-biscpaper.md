@@ -1,11 +1,9 @@
 ---
-title:
-- 'BiSC: An algorithm for discovering generalized permutation patterns'
+title: 'BiSC: An algorithm for discovering generalized permutation patterns'
 
-journal:
- - In preparation
+journal: In preparation
 
-authors: 
+authors:
 - ulfarsson
 
 projects:
@@ -59,7 +57,7 @@ largest_bad_perms  = 8
 cpus               = 7
 
 A, B = examples_for_bisc( gr_num, ex_num, largest_good_perms, largest_bad_perms, cpus )
-    
+
 size_of_subdicts(A)
 ```
 
@@ -160,7 +158,7 @@ L               = largest_bad_perms
 stop_on_failure = False
 parallel        = True
 ncpus           = 7
-        
+
 patterns_suffice( SG ,L , B, stop_on_failure, parallel, ncpus )
 ```
 

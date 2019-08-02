@@ -1,9 +1,7 @@
 ---
-title:
-- Word-representability of line graphs
+title: Word-representability of line graphs
 
-journal:
- - Open Journal of Discrete Mathematics, Volume 1, Number 2 (2011) 
+journal: Open Journal of Discrete Mathematics, Volume 1, Number 2 (2011)
 
 authors:
 - kitaev

@@ -1,11 +1,9 @@
 ---
-title:
-- Occurrence graphs of patterns in permutations
+title: Occurrence graphs of patterns in permutations
 
-journal:
- - To appear in Involve
+journal: To appear in Involve
 
-authors: 
+authors:
 - kristinsson
 - ulfarsson
 
