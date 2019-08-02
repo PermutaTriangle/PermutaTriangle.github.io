@@ -1,11 +1,9 @@
 ---
-title:
-- Sorting and preimages of pattern classes
+title: Sorting and preimages of pattern classes
 
-journal:
- - In preparation
+journal: In preparation
 
-authors: 
+authors:
 - claesson
 - ulfarsson
 

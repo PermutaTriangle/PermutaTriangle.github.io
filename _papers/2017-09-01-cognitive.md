@@ -1,9 +1,7 @@
 ---
-title:
-- Cognitive workload classification using cardiovascular measures and dynamic features
+title: Cognitive workload classification using cardiovascular measures and dynamic features
 
-journal:
- - IEEE 8th International Conference on Cognitive Infocommunications
+journal: IEEE 8th International Conference on Cognitive Infocommunications
 
 authors:
 - bean

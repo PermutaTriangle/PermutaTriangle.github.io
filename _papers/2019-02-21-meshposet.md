@@ -1,11 +1,9 @@
 ---
-title:
-- The poset of mesh patterns
+title: The poset of mesh patterns
 
-journal:
- - To appear in Discrete Mathematics
+journal: To appear in Discrete Mathematics
 
-authors: 
+authors:
 - smith
 - ulfarsson
 
