@@ -4,6 +4,11 @@ title: About
 permalink: /about/
 ---
 
+Conferences
+- [Permutation Patterns](https://permutationpatterns.com)
+- [Formal Power Series and Algebraic Combinatorics](http://fpsac.org)
+- [British Combinatorial Conference](https://britishcombinatorial.wordpress.com)
+
 Useful links
 - [ComboPal](http://combopal.ru.is)
 - [PermPal - the predecessor of ComboPal](https://permpal.ru.is)
