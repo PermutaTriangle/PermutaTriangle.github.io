@@ -5,7 +5,7 @@ first_name: Émile
 name: Émile Nadeau
 position: PhD student at Reykjavik University
 ---
-{% assign supervisor = site.authors | where: 'short_name', 'ulfarsson': | first %}
+{% assign supervisor = site.authors | where: 'short_name', 'ulfarsson' | first %}
 
 Émile is a doctoral student  under the supervision of
 [{{ supervisor.first_name }}]({{site.baseurl}}{{ supervisor.url }})
