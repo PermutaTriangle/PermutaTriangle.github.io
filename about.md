@@ -16,6 +16,9 @@ Useful links
 - [FindStat](http://www.findstat.org/CollectionsDatabase)
 - [Wikipedia: Enumerations of specific permutation classes](https://en.m.wikipedia.org/wiki/Enumerations_of_specific_permutation_classes)
 
+Blogs
+- [Computational Combinatorics](https://computationalcombinatorics.wordpress.com): A blog by [Derrick Stolee](http://www.math.uiuc.edu/~stolee)
+
 Affiliated research centers
 - [ICE-TCS](http://icetcs.ru.is) ([blog](https://ice-tcs.blogspot.com))
 
