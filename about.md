@@ -9,6 +9,13 @@ Conferences
 - [Formal Power Series and Algebraic Combinatorics](http://fpsac.org)
 - [British Combinatorial Conference](https://britishcombinatorial.wordpress.com)
 
+Seminar series
+- [Brandeis Combinatorics Seminar](http://people.brandeis.edu/~bernardi/combinatorics-seminar/combinatorics.html)
+- [Brown Discrete Math Seminar](http://www.math.brown.edu/~sswatson/discretemath/index.html)
+- [MIT-Harvard-MSR Combinatorics Seminar](http://math.mit.edu/seminars/combin/)
+- [New York Combinatorics Seminar](http://userhome.brooklyn.cuny.edu/skingan/CombinatoricsSeminar/)
+- [Rutgers Experimental Mathematics Seminar](http://sites.math.rutgers.edu/~my237/expmath/)
+
 Useful links
 - [ComboPal](http://combopal.ru.is)
 - [PermPal - the predecessor of ComboPal](https://permpal.ru.is)

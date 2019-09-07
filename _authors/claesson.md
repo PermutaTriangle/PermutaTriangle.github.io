@@ -14,4 +14,5 @@ position: Professor, University of Iceland
 - [arXiv papers](https://arxiv.org/a/claesson_a_1.html)
 - [Google Scholar](https://scholar.google.com/citations?user=pKIoJZcAAAAJ&hl=en)
 - [MathSciNet Profile](https://mathscinet.ams.org/mathscinet/MRAuthorID/684271)
+- [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=84985)
 - [ORCID id](https://orcid.org/0000-0001-5797-8673)

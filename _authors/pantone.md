@@ -15,4 +15,5 @@ computational mathematics, and statistical mechanics.
 - [arXiv papers](https://arxiv.org/a/pantone_j_1.html)
 - [Google Scholar](https://scholar.google.com/citations?user=wA5QyMEAAAAJ&hl=en)
 - [MathSciNet Profile](https://mathscinet.ams.org/mathscinet/MRAuthorID/1105410)
+- [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=191966)
 - [ORCID id](https://orcid.org/0000-0001-7510-8540)
