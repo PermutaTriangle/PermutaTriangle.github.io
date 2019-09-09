@@ -8,6 +8,14 @@ Conferences
 - [Permutation Patterns](https://permutationpatterns.com)
 - [Formal Power Series and Algebraic Combinatorics](http://fpsac.org)
 - [British Combinatorial Conference](https://britishcombinatorial.wordpress.com)
+- [Algorithms and Data Structures Symposium](http://www.wads.org)
+- [Conference on Automatic Deduction](http://www.cadeinc.org)
+- [European Symposia on Algorithms](http://esa-symposium.org)
+- [International Computing and Combinatorics Conference](http://www.wikicfp.com/cfp/program?id=523&s=COCOON&f=Computing%20and%20Combinatorics%20Conference)
+- [International Symposium on Symbolica and Algebraic Computation](http://www.issac-conference.org)
+- [International Symposium on Mathematical Foundations of Computer Science](https://en.wikipedia.org/wiki/International_Symposium_on_Mathematical_Foundations_of_Computer_Science)
+- [Society for Industrial and Applied Mathematics (SIAM)](https://www.siam.org/Conferences/Calendar)
+- [Symposium on Theoretical Aspects of Computer Science (STACS)](http://www.stacs-conf.org)
 
 Seminar series
 - [Brandeis Combinatorics Seminar](http://people.brandeis.edu/~bernardi/combinatorics-seminar/combinatorics.html)
