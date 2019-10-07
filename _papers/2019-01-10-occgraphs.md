@@ -19,7 +19,7 @@ hereditary property of graphs gives rise to a permutation class.
 This paper started as the BSc thesis of Bjarni at the University of Iceland.
 
 ## Download the paper
-<!-- - [{{ page.journal }}](https://cs.uwaterloo.ca/journals/JIS/VOL20/Bean/bean2.html) -->
+- [{{ page.journal }}](https://msp.org/involve/2019/12-6/p01.xhtml)
 - [arXiv](https://arxiv.org/abs/1607.03018)
 - [Bjarni's BSc thesis](http://hdl.handle.net/1946/22017)
 
