@@ -1,7 +1,7 @@
 ---
 title: Occurrence graphs of patterns in permutations
 
-journal: To appear in Involve
+journal: Involve, Volume 12 (2019), Number 6, 901-918
 
 authors:
 - kristinsson
