@@ -29,3 +29,5 @@ Av(2314,  3124, 12435, 13524).
 - British Combinatorial Conference 2019, presented by Émile
 [abstract]({{site.baseurl}}/assets/talks/indepsets/2019-BCC-abstract.pdf)
 [slides]({{site.baseurl}}/assets/talks/indepsets/2019-BCC-slides.pdf)
+- Icelandic Math Society 2019, presented by Émile
+[slides]({{site.baseurl}}/assets/talks/indepsets/2019-IMS-slides.pdf)
