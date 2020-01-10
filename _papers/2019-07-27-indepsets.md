@@ -1,7 +1,7 @@
 ---
 title: Enumeration of permutation classes by inflation of independent set of graphs
 
-journal: In preparation
+journal: Submitted
 
 authors:
 - bean
@@ -21,6 +21,9 @@ Av(2134, 2413, P) that allows us to enumerate eight more classes  described by
 bases containing only length 4 patterns. We finally use our results to prove an
 unbalanced  Wilf-equivalence  between  Av(2134, 2413)  and
 Av(2314,  3124, 12435, 13524).
+
+## Download the paper
+- [arXiv](https://arxiv.org/abs/1912.07503)
 
 ## Presentations
 - Permutation Patterns 2019, presented by Émile
