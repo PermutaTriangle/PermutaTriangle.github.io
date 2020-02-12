@@ -1,7 +1,7 @@
 ---
 title: The poset of mesh patterns
 
-journal: Discrete Mathematics, Volume 343, Issue 6, June 2020, Pages 1967–1990
+journal: Discrete Mathematics, Volume 343, Issue 6, June 2020
 
 authors:
 - smith
