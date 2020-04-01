@@ -10,7 +10,7 @@ Seminar series
 - [Dartmouth College Combinatorics Seminar](https://math.dartmouth.edu/~comb/)
 - [MIT-Harvard-MSR Combinatorics Seminar](http://math.mit.edu/seminars/combin/)
 - [New York Combinatorics Seminar](http://userhome.brooklyn.cuny.edu/skingan/CombinatoricsSeminar/)
-- [Rutgers Experimental Mathematics Seminar](http://sites.math.rutgers.edu/~my237/expmath/)
+- [Rutgers Experimental Mathematics Seminar](https://sites.math.rutgers.edu/~zeilberg/expmath/)
 
 Online only seminar series
 - [Graduate Online Combinatorics Colloquium](https://sites.google.com/view/gocc-combinatorics/)
