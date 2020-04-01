@@ -4,6 +4,24 @@ title: About
 permalink: /about/
 ---
 
+Seminar series
+- [Brandeis Combinatorics Seminar](http://people.brandeis.edu/~bernardi/combinatorics-seminar/combinatorics.html)
+- [Brown Discrete Math Seminar](http://www.math.brown.edu/~sswatson/discretemath/index.html)
+- [Dartmouth College Combinatorics Seminar](https://math.dartmouth.edu/~comb/)
+- [MIT-Harvard-MSR Combinatorics Seminar](http://math.mit.edu/seminars/combin/)
+- [New York Combinatorics Seminar](http://userhome.brooklyn.cuny.edu/skingan/CombinatoricsSeminar/)
+- [Rutgers Experimental Mathematics Seminar](http://sites.math.rutgers.edu/~my237/expmath/)
+
+Online only seminar series
+- [Graduate Online Combinatorics Colloquium](https://sites.google.com/view/gocc-combinatorics/)
+- [Extremal and Probabilistic Combinatorics Webinar](https://sites.google.com/view/epcwebinar/)
+- [Virtual Combinatorics Colloquium](https://sites.google.com/view/northeastcombinatoricsnetwork/virtual-combinatorics-colloquium)
+- [Oxford Discrete Mathematics and Probability Seminar](http://people.maths.ox.ac.uk/scott/dmp.htm)
+
+Other sites collecting online seminars
+[CS Theory Online Talks](https://cstheorytalks.wordpress.com),
+[Combinatorics Lectures Online](https://web.math.princeton.edu/~pds/onlinetalks/talks.html)
+
 Conferences
 - [Permutation Patterns](https://permutationpatterns.com)
 - [Formal Power Series and Algebraic Combinatorics](http://fpsac.org)
@@ -16,14 +34,6 @@ Conferences
 - [International Symposium on Mathematical Foundations of Computer Science](https://en.wikipedia.org/wiki/International_Symposium_on_Mathematical_Foundations_of_Computer_Science)
 - [Society for Industrial and Applied Mathematics (SIAM)](https://www.siam.org/Conferences/Calendar)
 - [Symposium on Theoretical Aspects of Computer Science (STACS)](http://www.stacs-conf.org)
-
-Seminar series
-- [Brandeis Combinatorics Seminar](http://people.brandeis.edu/~bernardi/combinatorics-seminar/combinatorics.html)
-- [Brown Discrete Math Seminar](http://www.math.brown.edu/~sswatson/discretemath/index.html)
-- [Dartmouth College Combinatorics Seminar](https://math.dartmouth.edu/~comb/)
-- [MIT-Harvard-MSR Combinatorics Seminar](http://math.mit.edu/seminars/combin/)
-- [New York Combinatorics Seminar](http://userhome.brooklyn.cuny.edu/skingan/CombinatoricsSeminar/)
-- [Rutgers Experimental Mathematics Seminar](http://sites.math.rutgers.edu/~my237/expmath/)
 
 Useful links
 - [ComboPal](http://combopal.ru.is)
