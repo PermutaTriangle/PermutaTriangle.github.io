@@ -15,7 +15,7 @@ Seminar series
 Online only seminar series
 - [Graduate Online Combinatorics Colloquium](https://sites.google.com/view/gocc-combinatorics/)
 - [Extremal and Probabilistic Combinatorics Webinar](https://sites.google.com/view/epcwebinar/)
-- [Virtual Combinatorics Colloquium](https://sites.google.com/view/northeastcombinatoricsnetwork/virtual-combinatorics-colloquium)
+- [Virtual Combinatorics Colloquium](https://sites.google.com/view/northeastcombinatoricsnetwork/virtual-combinatorics-colloquium) [YouTube](https://www.youtube.com/channel/UCQYSxI_EL0nhE9E6aZZra5Q)
 - [Oxford Discrete Mathematics and Probability Seminar](http://people.maths.ox.ac.uk/scott/dmp.htm)
 
 Other sites collecting online seminars
