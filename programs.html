@@ -8,11 +8,11 @@ title: Programs
   {% assign sorted = site.programs | sort: 'date' | reverse %}
   {% for program in sorted %}
   {% if program.type != 'outside' %}
-    <li>
-      <h2><a href="{{site.baseurl}}{{ program.url }}">{{ program.title }}</a></h2>
-      <p>{{ program.repo }}</p>
-      <p>{{ program.excerpt }}</p>
-    </li>
+  <li>
+    <h2><a href="{{site.baseurl}}{{ program.url }}">{{ program.title }}</a></h2>
+    <p><a href="{{site.baseurl}}{{ program.repo }}">{{ program.repo }}</a></p>
+    <p>{{ program.excerpt }}</p>
+  </li>
   {% endif %}
   {% endfor %}
 </ul>
