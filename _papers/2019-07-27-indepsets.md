@@ -1,7 +1,7 @@
 ---
 title: Enumeration of permutation classes by inflation of independent set of graphs
 
-journal: Submitted
+journal: To appear in Journal of Combinatorics
 
 authors:
 - bean
