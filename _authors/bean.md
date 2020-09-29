@@ -12,4 +12,4 @@ Christian is currently a postdoc at [LIPN, Université Paris Nord](https://lipn.
 - [Google Scholar](https://scholar.google.is/citations?user=_Jvo1bEAAAAJ&hl=en)
 - [MathSciNet Profile](https://mathscinet.ams.org/mathscinet/MRAuthorID/1146492)
 
-Email: bean@lipn.univ-paris13.fr
+Email: christianbean@ru.is
