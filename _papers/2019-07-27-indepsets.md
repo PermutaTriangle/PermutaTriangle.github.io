@@ -1,7 +1,7 @@
 ---
 title: Enumeration of permutation classes by inflation of independent set of graphs
 
-journal: To appear in Journal of Combinatorics
+journal: Journal of Combinatorics, Volume 4 (2020), Number 4
 
 authors:
 - bean
@@ -23,6 +23,7 @@ unbalanced  Wilf-equivalence  between  Av(2134, 2413)  and
 Av(2314,  3124, 12435, 13524).
 
 ## Download the paper
+- [Journal of Combinatorics, Volume 11 (2020), Number 4](https://www.intlpress.com/site/pub/pages/journals/items/joc/content/vols/0011/0004/index.php)
 - [arXiv](https://arxiv.org/abs/1912.07503)
 
 ## Presentations
