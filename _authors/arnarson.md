@@ -1,5 +1,5 @@
 ---
-status: student
+status: former_student
 short_name: arnarson
 first_name: Arnar
 name: Arnar Bjarni Arnarson

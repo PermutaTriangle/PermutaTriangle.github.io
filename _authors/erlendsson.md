@@ -1,5 +1,5 @@
 ---
-status: student
+status: former_student
 short_name: erlendsson
 first_name: Unnar
 name: Unnar Freyr Erlendsson
