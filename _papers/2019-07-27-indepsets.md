@@ -1,7 +1,7 @@
 ---
-title: Enumeration of permutation classes by inflation of independent set of graphs
+title: Enumeration of Permutation Classes and Weighted Labelled Independent Sets
 
-journal: Journal of Combinatorics, Volume 4 (2020), Number 4
+journal: Discrete Mathematics & Theoretical Computer Science, vol. 22 no. 2, Permutation Patterns 2019.
 
 authors:
 - bean
@@ -12,18 +12,20 @@ projects:
 
 ---
 ![A core graph]({{site.baseurl}}/assets/img/indepsets.png){:align="right" height="200px"}
-We present a way to obtain  permutation classes by inflation of independent sets
-of  certain graphs.  We  cover classes  of  the form  Av(2314,  3124, P)  and
-Av(2413,  3142,  P).  These  results  allow us to
-enumerate a total of 48 classes, with bases containing only length 4 patterns.
-Using a modified approach, we also demonstrate  a result for classes of the form
-Av(2134, 2413, P) that allows us to enumerate eight more classes  described by
-bases containing only length 4 patterns. We finally use our results to prove an
-unbalanced  Wilf-equivalence  between  Av(2134, 2413)  and
-Av(2314,  3124, 12435, 13524).
+In this  paper, we study  the staircase encoding  of permutations, which  maps a
+permutation to a staircase grid with cells filled with permutations. We consider
+many  cases, where  restricted to  a permutation  class, the  staircase encoding
+becomes a  bijection to its image.  We describe the image  of those restrictions
+using  independent sets  of graphs  weighted  with permutations.  We derive  the
+generating  function  for the  independent  sets  and  then for  their  weighted
+counterparts. The bijections we establish provide the enumeration of permutation
+classes.  We use  our results  to uncover  some unbalanced  Wilf-equivalences of
+permutation classes  and outline how  to do  random sampling in  the permutation
+classes.  In particular,  we cover  the classes  Av(2314,3124) ,  Av(2413,3142),
+Av(2413,3124), Av(2413,2134) and Av(2314,2143), as well as many subclasses.
 
 ## Download the paper
-- [Journal of Combinatorics, Volume 11 (2020), Number 4](https://www.intlpress.com/site/pub/pages/journals/items/joc/content/vols/0011/0004/index.php)
+- [ {{page.journal}} ](https://dmtcs.episciences.org/7295)
 - [arXiv](https://arxiv.org/abs/1912.07503)
 
 ## Presentations
