@@ -1,6 +1,22 @@
-_site
-.sass-cache
+# Jekyll
+_site/
+.sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+# Ruby
+.bundle/
+vendor/
+*.gem
+Gemfile.lock
+
+# OS generated files
 .DS_Store
-vendor
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Note: .ruby-version is intentionally tracked to ensure consistent Ruby version
