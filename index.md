@@ -37,3 +37,27 @@ mathematics and computer science.
     {% endif %}
   {% endfor %}
 </ul>
+
+### Recent Papers
+<div class="recent-papers">
+  {% assign sorted_papers = site.papers | sort: 'path' | reverse %}
+  {% for paper in sorted_papers limit: 3 %}
+  <div class="paper-preview" style="margin-bottom: 1.5em; padding: 1em; border-left: 3px solid #828282;">
+    <h4 style="margin-bottom: 0.5em;"><a href="{{ site.baseurl }}{{ paper.url }}">{{ paper.title }}</a></h4>
+    <p style="margin-bottom: 0.5em; font-style: italic; color: #666;">
+      {% if paper.journal %}{{ paper.journal }}{% endif %}
+      {% if paper.date %} • {{ paper.date | date: "%B %Y" }}{% endif %}
+    </p>
+    <p style="margin-bottom: 0.5em;">
+      {% if paper.authors %}
+        Authors:
+        {% for author_id in paper.authors %}
+          {% assign author = site.authors | where: "short_name", author_id | first %}
+          {% if author %}{{ author.name }}{% else %}{{ author_id }}{% endif %}{% unless forloop.last %}, {% endunless %}
+        {% endfor %}
+      {% endif %}
+    </p>
+    <p>{{ paper.content | strip_html | truncatewords: 30 }}</p>
+  </div>
+  {% endfor %}
+</div>
