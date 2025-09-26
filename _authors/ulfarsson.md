@@ -3,9 +3,9 @@ status: member
 short_name: ulfarsson
 first_name: Henning
 name: Henning Ulfarsson
-position: Assistant Professor, Reykjavik University
+position: Associate Professor, Reykjavik University
 ---
-Henning is an assistant Professor in the [School of Computer Science](https://en.ru.is/scs/)
+Henning is an Associate Professor in the [Department of Computer Science](https://www.ru.is/en/departments/dcs)
 at [Reykjavik University](https://en.ru.is) in Iceland. His CV can be accessed [here]({{site.baseurl}}/assets/cvs/CV-Henning.pdf).
 
 - [arXiv papers](https://arxiv.org/a/ulfarsson_h_1.html)
