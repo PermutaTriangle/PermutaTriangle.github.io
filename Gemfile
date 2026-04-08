@@ -14,7 +14,7 @@ group :jekyll_plugins do
 end
 
 # Required for Jekyll 4.x with Ruby 3.x
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.9"
 
 # Platform-specific gems
 platforms :mingw, :x64_mingw, :mswin, :jruby do
