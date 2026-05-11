@@ -10,7 +10,7 @@ gem "minima", "~> 2.5"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.17"
   gem "jekyll-sitemap", "~> 1.4"
-  gem "jekyll-seo-tag", "~> 2.8"
+  gem "jekyll-seo-tag", "~> 2.9"
 end
 
 # Required for Jekyll 4.x with Ruby 3.x
